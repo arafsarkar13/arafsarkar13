@@ -5,7 +5,6 @@
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nextjs-Dark.svg" height="0"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGgyYWx2bnJmN2JibXRvNmNuazQxNmN2aTU0dGI3ZGtnZGlmcmdrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VePtB3roynxfLYicuV/giphy.gif" width="380" />
 </p>
 
@@ -97,16 +96,7 @@ I'm a **Computer Science & Engineering student** who likes turning ideas into re
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafsarkar13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7&icon_color=00c9a7" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafsarkar13&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafsarkar13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafsarkar13&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00c9a7&line=00c9a7&point=ffffff" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafsarkar13&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7" width="60%" />
 </div>
 
 ---
