@@ -69,6 +69,27 @@ $ whoami
 
 ---
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arafsarkar13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafsarkar13&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arafsarkar13&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=arafsarkar13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
