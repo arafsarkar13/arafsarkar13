@@ -23,7 +23,7 @@ $ whoami
 > Araf — CSE student at IUBAT, Dhaka 🇧🇩 & aspiring software engineer
 ```
 
-- 🎓 Computer Science & Engineering student at **IUBAT**
+- 🎓 Computer Science & Engineering student at **IUBAT**<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - 🔭 Currently learning **full-stack web development** (Programming Hero path) and sharpening **data science** skills
 - 🛠️ I enjoy building creative, hand-crafted interfaces: terminal-style portfolios, interactive pages, and full-stack apps
 - 🌱 I believe in **continuous learning**: every project is a lesson, every bug is a teacher
