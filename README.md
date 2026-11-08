@@ -70,6 +70,16 @@ $ whoami
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=ORNOB-083&theme=radical&hide_border=true&ring=833ab4&fire=fd1d1d&currStreakLabel=fcb045" width="49%">
+  <!-- <img src="https://raw.githubusercontent.com/arafsarkar13/profile-summary-cards/master/profile-summary-card-output/radical/4-productive-time.svg" width="49%"> --> 
+</div>
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
