@@ -67,32 +67,6 @@ $ whoami
 | ⚛️ **[Devstack](https://github.com/arafsarkar13/REPO_NAME)** | React project exploring component-driven UI | React |
 
 
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arafsarkar13/arafsarkar13/main/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" alt="Stats">
-  <img src="https://raw.githubusercontent.com/arafsarkar13/arafsarkar13/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" alt="Repos per language">
-  <img src="https://raw.githubusercontent.com/arafsarkar13/arafsarkar13/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" alt="Most commit language">
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=arafsarkar13&theme=radical&hide_border=true&ring=833ab4&fire=fd1d1d&currStreakLabel=fcb045" width="49%" alt="GitHub streak">
-</div>
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arafsarkar13&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/arafsarkar13?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
-<img src="https://img.shields.io/github/stars/arafsarkar13/My_PortFolio?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b26" alt="Portfolio stars" />
-<img src="https://img.shields.io/github/last-commit/arafsarkar13/My_PortFolio?style=for-the-badge&logo=git&color=7aa2f7&labelColor=1a1b26" alt="Last commit" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
