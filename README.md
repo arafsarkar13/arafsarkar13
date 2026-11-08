@@ -28,7 +28,7 @@ $ whoami
 - 🛠️ I enjoy building creative, hand-crafted interfaces: terminal-style portfolios, interactive pages, and full-stack apps
 - 🌱 I believe in **continuous learning**: every project is a lesson, every bug is a teacher
 - 📚 Former private tutor, so I like explaining things clearly and sharing what I learn
-- 💬 Ask me about: **HTML/CSS, JavaScript, React, Node.js/Express, MongoDB**
+- 💬 Ask me about: **HTML/CSS, JavaScript, TypeScript, React, Next.js, Node.js/Express, MongoDB**
 - 🌐 Check out my portfolio: **[arafsarkar13.github.io/My_PortFolio](https://arafsarkar13.github.io/My_PortFolio/)**
 
 ---
@@ -39,7 +39,7 @@ $ whoami
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="frontend" />
 
 **Backend & Database**
 
@@ -47,7 +47,7 @@ $ whoami
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" alt="languages" />
 
 **Tools & Platforms**
 
