@@ -74,20 +74,16 @@ $ whoami
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arafsarkar13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafsarkar13&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafsarkar13&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arafsarkar13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+<img src="https://img.shields.io/github/followers/arafsarkar13?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
+<img src="https://img.shields.io/github/stars/arafsarkar13/My_PortFolio?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b26" alt="Portfolio stars" />
+<img src="https://img.shields.io/github/last-commit/arafsarkar13/My_PortFolio?style=for-the-badge&logo=git&color=7aa2f7&labelColor=1a1b26" alt="Last commit" />
 
 </div>
 
----
 ---
 
 ## 📈 Contribution Graph
@@ -97,6 +93,7 @@ $ whoami
 </div>
 
 ---
+
 ## 🤝 Connect With Me
 
 <div align="center">
