@@ -61,12 +61,12 @@ $ whoami
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| 🛒 **[WPXPO](https://github.com/arafsarkar13/REPO_NAME)** | Full-stack e-commerce app with JWT auth, role separation and a payment simulator | Node.js · Express · MongoDB · JS |
+|📚 **[BookNook](https://github.com/arafsarkar13/booknook-client)** | A cozy corner for book lovers: browse, discover and organize your reading | Next.js ·React · Tailwind CSS · DaisyUI · Framer Motion · Swiper.js · react-hot-toast · BetterAuth · MongoDB · imgbb.|
+| 🛒 **[WPXPO](https://github.com/arafsarkar13/wpxpo-frontend)** | Full-stack e-commerce app with JWT auth, role separation and a payment simulator | Node.js · Express · MongoDB · JS |
 | 🌐 **[Portfolio](https://github.com/arafsarkar13/My_PortFolio)** | Interactive portfolio with a portal hero, draggable project deck and sci-fi HUD contact form | HTML · CSS · JS |
 | ⚛️ **[Devstack](https://github.com/arafsarkar13/REPO_NAME)** | React project exploring component-driven UI | React |
-| 🎓 **[Student Attendance System](https://github.com/arafsarkar13/REPO_NAME)** | Attendance management system built from the ground up | C++ |
 
-> 📌 Replace each `REPO_NAME` with the real repository name, or pin these repos on your profile.
+
 
 ---
 
